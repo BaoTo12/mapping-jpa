@@ -1,0 +1,4 @@
+package com.manning.javapersistence.model;
+
+public class BillingDetails {
+}
