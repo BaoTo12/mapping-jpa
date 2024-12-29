@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a724d9-68bd-4430-8b4c-7b48a1788639" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qhgjMwkdqEE1v0VmWfMTkx0Hib" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MetamodelTest.accessStaticMetamodel.executor": "Run",
+    "JUnit.MetamodelTest.executor": "Run",
+    "JUnit.MetamodelTest.testItemsPattern.executor": "Run",
+    "JUnit.MetamodelTest.testItemsPatternWithGeneratedClass.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Education/Practice Be-Fe/Books/Jpa/springdatajpa"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Education\Practice Be-Fe\Books\Jpa\caveatEmptor\src\main\java\com\manning\javapersistence\ch03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.manning.javapersistence.ch03.ex02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MetamodelTest.testItemsPatternWithGeneratedClass">
+    <configuration name="MetamodelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MetamodelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetamodelTest.accessStaticMetamodel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MetamodelTest" />
+      <option name="METHOD_NAME" value="accessStaticMetamodel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetamodelTest.testItemsPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MetamodelTest" />
+      <option name="METHOD_NAME" value="testItemsPattern" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetamodelTest.testItemsPatternWithGeneratedClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MetamodelTest" />
+      <option name="METHOD_NAME" value="testItemsPatternWithGeneratedClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MetamodelTest.testItemsPatternWithGeneratedClass" />
+        <item itemvalue="JUnit.MetamodelTest.testItemsPattern" />
+        <item itemvalue="JUnit.MetamodelTest.accessStaticMetamodel" />
+        <item itemvalue="JUnit.MetamodelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a724d9-68bd-4430-8b4c-7b48a1788639" name="Changes" comment="" />
+      <created>1735120354900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735120354900</updated>
+    </task>
+    <servers />
+  </component>
+</project>

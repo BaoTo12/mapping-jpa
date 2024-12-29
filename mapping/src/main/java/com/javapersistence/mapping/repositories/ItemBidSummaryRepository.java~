@@ -1,0 +1,4 @@
+package com.javapersistence.mapping.repositories;
+
+public interface ItemBidSummaryRepository {
+}

@@ -1,0 +1,12 @@
+package com.manning.javapersistence.ch03.ex03;
+
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Set;
+
+public class Item {
+    private Set<Bid> bids = new HashSet<>();
+    public Set<Bid> getBids() {
+        return Collections.unmodifiableSet(bids);
+    }
+}

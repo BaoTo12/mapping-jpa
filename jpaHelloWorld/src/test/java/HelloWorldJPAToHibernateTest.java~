@@ -1,0 +1,7 @@
+import org.hibernate.SessionFactory;
+
+public class HelloWorldJPAToHibernateTest {
+    private static SessionFactory getSessionFactory(){
+        return
+    }
+}
